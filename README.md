@@ -1,5 +1,5 @@
 # yapımcı
-```cimidi & Papazchavo.```
+```cimidi```
 
 # Kullanım
 
